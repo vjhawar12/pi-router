@@ -1,0 +1,9 @@
+pi-router
+
+MAC of Eth NIC: 2c:cf:67:08:3b:2e
+MAC of WiFi NIC: 2c:cf:67:08:3b:30
+
+IP on myhomenetwork: 10.0.0.x
+IP on fedora-pi ethernet subnet: 10.42.0.34
+
+
